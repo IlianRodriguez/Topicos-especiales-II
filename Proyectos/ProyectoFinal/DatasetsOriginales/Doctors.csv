@@ -1,0 +1,16 @@
+DoctorID,Name,Department,Experience,Fees
+1,Dr. Ritu Joshi,Dermatology,1,
+2,Dr. Priya Yadav,ORTHOPEDICS,23,1000.0
+3,Dr. Rahul Verma,Neurology,24,800.0
+4,Dr. Deepak Nair,Cardiology,3,600.0
+5,Dr. Karan Nair,Cardiology,8,1000.0
+6,Dr. Neha Joshi,General Medicine,27,500.0
+7,Dr. Karan Patel,ENT,1,500.0
+8,Dr. Kavita Verma,Dermatology,5,1200.0
+9,Dr. Suresh Mehta,cardiology ,14,500.0
+10,Dr. Suresh Yadav,Dermatology,1,800.0
+11,Dr. Arjun Reddy,Cardiology,26,1200.0
+12,Dr. Suresh Singh,ORTHOPEDICS,14,1200.0
+13,Dr. Arjun Reddy,Cardiology,27,300.0
+14,Dr. Ritu Joshi,Pediatrics,15,
+15,Dr. Sanjay Mehta,ENT,26,400.0
